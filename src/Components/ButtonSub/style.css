@@ -1,0 +1,15 @@
+.containerButton{
+    display: flex;
+    align-items: flex-end;
+}
+
+.buttonSub {
+    padding: .5rem;
+    height: 5vh;
+    width: 10vw;
+    cursor: pointer;
+    background-color: rgb(0, 196, 0);
+    border: rgb(0, 0, 0);
+    border-radius: 5px;
+    
+}

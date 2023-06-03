@@ -1,0 +1,17 @@
+.containerForm {
+    width: 85vw;
+    height: 80vh;
+    background-color: rgb(24, 24, 24);
+    margin: 4rem auto;
+    border-radius: 5px;
+    padding: 1rem ; 
+}
+
+.containerForm div {
+    display: flex;
+    column-gap: 2rem;
+}
+
+.containerForm hr {
+    margin-top: 2rem;
+}

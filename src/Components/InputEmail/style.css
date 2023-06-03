@@ -1,0 +1,11 @@
+.containerInputEmail {
+    display: flex;
+    flex-direction: column;
+}
+
+#email {
+    width: 20vw;
+    padding: .5rem;
+    border-radius: 5px;
+    border: none;
+}
