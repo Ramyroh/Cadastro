@@ -1,0 +1,6 @@
+.containerCadastrado {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-around;
+    background-color: #242424;
+}
